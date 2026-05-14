@@ -50,3 +50,15 @@ tmp/
 temp/
 *.tmp
 *.temp
+
+# Package manager caches
+.npm/
+.pnpm-store/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Framework and hosting metadata
+.vercel/
+.netlify/
